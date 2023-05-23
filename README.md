@@ -1,5 +1,5 @@
 # Calculator
-A very basic calculator application created using Java **Swing**. 
+A very basic calculator application created using Kotlin **xml**. 
 
 ## Thank You!
 Please ⭐️ this repo and share it with others
